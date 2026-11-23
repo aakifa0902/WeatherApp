@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="sample_city">Houston</string>
+    <string name="sample_temperature">28.0°C</string>
+    <string name="sample_condition">Sunny</string>
+    <string name="sample_updated">Updated 3:45 PM</string>
+    <string name="weather_icon_sunny">Sunny weather icon</string>
+    <string name="unit_celsius_short">°C</string>
+    <string name="unit_fahrenheit_short">°F</string>
+    <string name="unit_celsius_description">Show temperature in Celsius</string>
+    <string name="unit_fahrenheit_description">Show temperature in Fahrenheit</string>
+</resources>
